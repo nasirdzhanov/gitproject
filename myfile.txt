@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 $ git pull
 Updating ba4a4af..e02f245
 Fast-forward
  myfile.txt | 1 +
  1 file changed, 1 insertion(+)
  create mode 100644 myfile.txt
+=======
+some more changes from github
+Testing "git pull"
+>>>>>>> 5be196c4b3802de87b8645ad3bea2d38ca932431
