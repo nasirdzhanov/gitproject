@@ -9,3 +9,6 @@ Fast-forward
 some more changes from github
 Testing "git pull"
 >>>>>>> 5be196c4b3802de87b8645ad3bea2d38ca932431
+
+Sending updates to git hub with push
+Git push not working
