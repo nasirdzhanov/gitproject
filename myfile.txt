@@ -1,14 +1,27 @@
-<<<<<<< HEAD
-$ git pull
-Updating ba4a4af..e02f245
-Fast-forward
- myfile.txt | 1 +
- 1 file changed, 1 insertion(+)
- create mode 100644 myfile.txt
-=======
-some more changes from github
-Testing "git pull"
->>>>>>> 5be196c4b3802de87b8645ad3bea2d38ca932431
+Git Introduction
 
-Sending updates to git hub with push
-Git push not working
+Agenda today: 
+1. collaborating with GitHub (cloud based source code hosting)
+
+…or create a new repository on the command line
+echo "# gitproject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/asotoolsny/gitproject.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/asotoolsny/gitproject.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+Git Collaboration with GitHub
+
+- git push
+- git set upstream origin master
+
+- changes from my pc before getting Github changes
+- Changes from GitHub
+- Some more changes from github
